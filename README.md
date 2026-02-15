@@ -209,4 +209,4 @@ Mobile platforms handle background tasks differently. We learned that:
 ## Tech Stack
 React Native • Expo • TypeScript • Google Gemini AI • AsyncStorage • Reanimated
 - Demo Video: [Video Link]
-- Live App: [App Store / Play Store Link]
+- Live App: [[StudySnap]](https://drive.google.com/file/d/1vaHwKdQiAcqqRl4H9h3_8OErgDB3nBFi/view?usp=drive_link)
